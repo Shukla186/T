@@ -57,7 +57,7 @@ yesBtn.addEventListener("click", () => {
     }
 
     document.querySelector(".container").innerHTML = `
-        <img src="shona.jpeg" class="valentine-img">
+        <img src="tannu.jpeg" class="valentine-img">
         <h1>Hmko pta tha ye hmar krejaaaaaa💕</h1>
         <p style="font-size:18px;color:#e75480;">
         Tum meri zindagi ka sabse khoobsurat hissa ho.
